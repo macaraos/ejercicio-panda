@@ -1,0 +1,86 @@
+body{
+	font-family: 'Raleway', sans-serif;
+}
+
+header{
+	background-color: #F78E69;
+	text-align: right;
+	color: #FFF;
+	height: 200px;
+	padding: 30px;
+}
+
+.love{
+	padding: 20px;
+}
+
+.best{
+	padding-right: 20px;
+}
+
+.pandaOne{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    object-fit: cover;
+    height: 450px;
+}
+
+.green {
+	background-color: #ABE188;
+	border-top: 15px solid #F78E69;
+	border-bottom: 15px solid #F78E69;
+	padding: 5% 0;
+}
+.text {
+	background-color: #F78E69;
+	color: #FFF;
+	text-align: center;
+	padding: 10px;
+	height: auto;
+}
+
+h3{
+	padding-bottom: 20px;
+}
+
+.pandaTwo{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    object-fit: cover;
+    height: 500px;
+}
+
+.panditas{
+	color: #FFF;
+	height: auto;
+	background-color: #ABE188;
+	border-top: 15px solid #F78E69;
+	border-bottom: 15px solid #F78E69;
+	padding: 70px 0;
+	text-align: center;
+	font-weight: bold;
+}
+
+.panditas img{
+	margin-top: 20px;
+	border: 8px solid #FFF;
+}
+
+.pandaTres{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    object-fit: cover;
+    height: 450px;
+}
+
+footer{
+	background-color: #F78E69;
+	text-align: right;
+	color: #FFF;
+	height: 70px;
+	padding: 10px;
+}
+
+.love2{
+	padding: 20px;
+}
